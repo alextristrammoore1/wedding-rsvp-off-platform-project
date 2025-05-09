@@ -16,3 +16,4 @@
 | Julian            | 3             |
 | Maxibon           | 5 	    |
 | Alex Moore        | 3             |
+| Daniel Cleaver    | 1             |
