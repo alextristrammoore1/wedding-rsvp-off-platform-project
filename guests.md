@@ -1,5 +1,6 @@
 | Name              | Number of Guests |
 | -----------       | -----------   |
+| Godfrey Mong      | 8             | 
 | Rylee Cherry      | 2             |
 | Aimee Howard      | 3             |
 | Carl Pacheco      | 1             |
